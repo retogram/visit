@@ -59,6 +59,7 @@ a:focus {
 .page-header a {
   font-size: 16px;
   line-height: 24px;
+  color: #EEE8AA;
 }
 
 .page-title {
@@ -81,7 +82,7 @@ a:focus {
    width: 147px;
    height: 147px;
    border-radius: 50%;
-   background-color: #ffffff
+   background-color: #FFC0CB;
  }
 
 .about-content {
@@ -110,7 +111,7 @@ a:focus {
   font-size: 16px;
   line-height: 24px;
   font-style: italic;
-  color: #ffffff;
+  color: #000000;
   background-color: #FF4500;
 }
 
@@ -164,7 +165,7 @@ p.contacts-name {
 
 }
 .page-contact a {
-  color: #ffffff;
+  color: #4169E1;
 }
 
 .black-footer{
