@@ -14,10 +14,10 @@
   min-height: 100vh;
   margin: 0;
   font-family: "Verdana", "Tahoma", sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 18px;
-  color: #333333;
-  background-color: #eae9f2;
+  color: #ffffff;
+  background-color: #000000;
 }
 
 .section-title {
@@ -31,24 +31,26 @@
 }
 
 a {
-  color: #6653d9;
+  color: #000000;
 }
 
 a:focus {
   outline-color: #b6aaff;
 }
 
+
+
 .page-header {
   margin-bottom: 40px;
-  color: #333333;
-  background-color: #ffffff;
+  color: #000000;
+  background-color: #FF4500;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
 }
 
 .page-header .container {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: url("img/raccoons.svg");
+  background-image: url("img/ccch.svg");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 290px 212px;
@@ -79,6 +81,7 @@ a:focus {
    width: 147px;
    height: 147px;
    border-radius: 50%;
+   background-color: #ffffff
  }
 
 .about-content {
@@ -107,8 +110,8 @@ a:focus {
   font-size: 16px;
   line-height: 24px;
   font-style: italic;
-  color: #333333;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #FF4500;
 }
 
 .contacts {
@@ -144,7 +147,7 @@ p.contacts-name {
 .page-footer {
   margin-top: auto;
   color: #ffffff;
-  background-color: #6653d9;
+  background-color: #FF4500;
 }
 
 .page-footer .container {
@@ -155,7 +158,11 @@ p.contacts-name {
   padding-bottom: 14px;
 }
 
-.page-footer p {
+.page-footer p  {
   margin: 0;
   padding: 0;
+
+}
+.page-contact a {
+  color: #ffffff;
 }
